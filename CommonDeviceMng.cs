@@ -15,7 +15,7 @@ using DevExpress.Utils;
 
 namespace 공용장비_스케쥴관리
 {
-    public partial class CommonDeviceMng : UserControl
+    public partial class CommonDeviceMng : UserControl//asdasd
     {
         #region 전역변수
 
